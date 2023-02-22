@@ -1,0 +1,43 @@
+{
+  "id": "9234",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9234",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "USA - Land der unbegrenzten ... Extremwettererereignisse",
+  "abstract": "USA - Land der unbegrenzten ... Extremwettererereignisse\nKlimawandel in regionaler Perspektive",
+  "authors": [
+    {
+      "email": "ms-itunes@web.de",
+      "firstname": "Marvin",
+      "name": "Schaum",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Atmosphäre",
+    "latitude": 42.038513691310314,
+    "longitude": -102.87240502303405,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Klimaextreme",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9234/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9234/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9234/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9234/tiles.dzi",
+  "sources": []
+}
