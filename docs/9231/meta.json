@@ -1,0 +1,43 @@
+{
+  "id": "9231",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9231",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Kampf gegen Mensch und Natur – militärische Konflikte der USA",
+  "abstract": "Kampf gegen Mensch und Natur – militärische Konflikte der USA",
+  "authors": [
+    {
+      "email": "merlevortmann@yahoo.com",
+      "firstname": "Merle",
+      "name": "Vortmann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Atmosphäre",
+    "latitude": 48.905562787503854,
+    "longitude": -108.31613593317066,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Politik",
+  "subtopic": "Altlasten",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9231/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9231/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9231/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9231/tiles.dzi",
+  "sources": []
+}
