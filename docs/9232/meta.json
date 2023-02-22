@@ -1,0 +1,43 @@
+{
+  "id": "9232",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9232",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Let's make America's Climate great again!",
+  "abstract": "Let's make America's Climate great again!",
+  "authors": [
+    {
+      "email": "leascholz98@gmx.de",
+      "firstname": "Lea",
+      "name": "Scholz",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 46.88532505666902,
+    "longitude": -107.1240620559017,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9232/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9232/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9232/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9232/tiles.dzi",
+  "sources": []
+}
