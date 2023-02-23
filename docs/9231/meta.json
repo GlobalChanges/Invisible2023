@@ -19,7 +19,7 @@
   ],
   "location": {
     "country": "USA",
-    "countries": [],
+    "countries": ["Afghanistan","USA","Vietnam"],
     "continent": "Nordamerika",
     "landscape": "Atmosphäre",
     "latitude": 48.905562787503854,
