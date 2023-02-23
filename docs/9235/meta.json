@@ -1,0 +1,43 @@
+{
+  "id": "9235",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9235",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Die USA und ihre Wetterextreme",
+  "abstract": "Ein turbulentes Land: Die USA und ihre Wetterextreme",
+  "authors": [
+    {
+      "email": "mathilda.beiser@venus.uni-freiburg.de",
+      "firstname": "Mathilda",
+      "name": "Beiser",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Atmosphäre",
+    "latitude": 42.15315841054937,
+    "longitude": -103.15422690300656,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Klimaextreme",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9235/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9235/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9235/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9235/tiles.dzi",
+  "sources": []
+}
