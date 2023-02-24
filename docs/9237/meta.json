@@ -1,0 +1,43 @@
+{
+  "id": "9237",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9237",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Lake Mead: Stausee im Colorado River - Symptom der Klimakrise",
+  "abstract": "Lake Mead\nStausee im Colorado River\nSymptom der Klimakrise",
+  "authors": [
+    {
+      "email": "paul.zimpfer@students.uni-freiburg.de",
+      "firstname": "Paul",
+      "name": "Zimpfer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Agrar",
+    "latitude": 36.06,
+    "longitude": -114.77,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Klimawandel",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9237/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9237/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9237/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9237/tiles.dzi",
+  "sources": []
+}
