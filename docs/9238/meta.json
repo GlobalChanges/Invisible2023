@@ -1,0 +1,43 @@
+{
+  "id": "9238",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9238",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Nordamerikas Küsten rüsten sich - Küstenschutz und Küstenmanagement",
+  "abstract": "Nordamerikas Küsten rüsten sich\n- Küstenschutz und Küstenmanagement",
+  "authors": [
+    {
+      "email": "leonie.oeffinger@gmail.com",
+      "firstname": "Leonie",
+      "name": "Oeffinger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Küste",
+    "latitude": 42.038631166193184,
+    "longitude": -102.82377753342189,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Meeresspiegel",
+  "subtopic": "Hochwasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9238/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9238/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9238/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9238/tiles.dzi",
+  "sources": []
+}
