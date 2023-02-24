@@ -21,9 +21,9 @@
     "country": "USA",
     "countries": ["Afghanistan","USA","Vietnam"],
     "continent": "Nordamerika",
-    "landscape": "Atmosphäre",
-    "latitude": 48.905562787503854,
-    "longitude": -108.31613593317066,
+    "landscape": "None",
+    "latitude": 38.795,
+    "longitude": -77.23667,
     "city": "",
     "region": ""
   },
