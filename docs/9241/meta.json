@@ -1,0 +1,43 @@
+{
+  "id": "9241",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9241",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Der Corn Belt als fossiles Energiesystem",
+  "abstract": "Der Corn Belt als fossiles Energiesystem\nWas hat Erdgas mit unserem Essen zu tun?",
+  "authors": [
+    {
+      "email": "fabianfl@hotmail.de",
+      "firstname": "Fabian",
+      "name": "Flenner",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Agrar",
+    "latitude": 40.17,
+    "longitude": -89.12,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Energie",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9241/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9241/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9241/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9241/tiles.dzi",
+  "sources": []
+}
