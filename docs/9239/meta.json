@@ -1,0 +1,43 @@
+{
+  "id": "9239",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9239",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Dead Zones - Was ist los im Golf von Mexiko?",
+  "abstract": "Dead Zones - Was ist los im Golf von Mexiko?",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Simon",
+      "name": "Schnepp",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Meer",
+    "latitude": 29,
+    "longitude": -91,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Biodiversität",
+  "subtopic": "Landwirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9239/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9239/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9239/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9239/tiles.dzi",
+  "sources": []
+}
