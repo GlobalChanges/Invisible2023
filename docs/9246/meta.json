@@ -1,0 +1,43 @@
+{
+  "id": "9246",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9246",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Black Lives Matter: Eine Bewegung zwischen Wut und Hoffnung",
+  "abstract": "Black Lives Matter: Eine Bewegung zwischen Wut und Hoffnung",
+  "authors": [
+    {
+      "email": "felicia-frank@gmx.de",
+      "firstname": "Felicia",
+      "name": "Frank",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 44.98,
+    "longitude": -93.26,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Gerechtigkeit",
+  "topic": "Politik",
+  "subtopic": "Medien",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9246/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9246/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9246/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9246/tiles.dzi",
+  "sources": []
+}
