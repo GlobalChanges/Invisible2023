@@ -1,0 +1,43 @@
+{
+  "id": "9248",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9248",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Rust vs Comeback Cities",
+  "abstract": "Rust vs Comeback Cities",
+  "authors": [
+    {
+      "email": "eiauf@gmx.de",
+      "firstname": "Ole",
+      "name": "Becker",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 42.33,
+    "longitude": -83.05,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Wirtschaft",
+  "subtopic": "Altlasten",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9248/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9248/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9248/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9248/tiles.dzi",
+  "sources": []
+}
