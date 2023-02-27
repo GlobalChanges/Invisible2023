@@ -1,0 +1,43 @@
+{
+  "id": "9243",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9243",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Mining und Altlasten in den USA - ein Fluch für die Umwelt, ein Segen ",
+  "abstract": "Mining und Altlasten in den USA - ein Fluch für die Umwelt, ein Segen für die Wirtschaft?",
+  "authors": [
+    {
+      "email": "felix.westermann@jupiter.uni-freiburg.de",
+      "firstname": "Felix",
+      "name": "Westermann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Gebirge",
+    "latitude": 42.15883930929599,
+    "longitude": -103.01930964392618,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Rohstoffe",
+  "subtopic": "Altlasten",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9243/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9243/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9243/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9243/tiles.dzi",
+  "sources": []
+}
