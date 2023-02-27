@@ -1,0 +1,43 @@
+{
+  "id": "9247",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9247",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Wahlverhalten in den USA - Ein zerissenes Land",
+  "abstract": "Wahlverhalten in den USA - Ein zerissenes Land",
+  "authors": [
+    {
+      "email": "rebecca.thurm@merkur.uni-freiburg.de",
+      "firstname": "Rebecca",
+      "name": "Thurm",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 42.052514563226666,
+    "longitude": -102.84923250387075,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Spatial",
+  "topic": "Politik",
+  "subtopic": "Bildung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9247/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9247/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9247/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9247/tiles.dzi",
+  "sources": []
+}
