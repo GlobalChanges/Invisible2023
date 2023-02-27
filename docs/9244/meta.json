@@ -1,0 +1,43 @@
+{
+  "id": "9244",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9244",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "How to create a star in Hollywood",
+  "abstract": "How to create a star in Hollywood",
+  "authors": [
+    {
+      "email": "arlette-weiland@t-online.de",
+      "firstname": "Arlette",
+      "name": "Weiland",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 34.01,
+    "longitude": -118.32,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Medien",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9244/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9244/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9244/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9244/tiles.dzi",
+  "sources": []
+}
