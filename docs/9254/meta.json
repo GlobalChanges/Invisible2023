@@ -1,0 +1,43 @@
+{
+  "id": "9254",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9254",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Ich sehe was, was du nicht siehst!?  Fotografie in den USA",
+  "abstract": "Ich sehe was, was du nicht siehst!?  Fotografie in den USA",
+  "authors": [
+    {
+      "email": "sarah.herrmann@students.uni-freiburg.de",
+      "firstname": "Sarah",
+      "name": "Hermann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 42.137609176233305,
+    "longitude": -102.98655879621367,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Medien",
+  "subtopic": "Kultur",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9254/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9254/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9254/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9254/tiles.dzi",
+  "sources": []
+}
