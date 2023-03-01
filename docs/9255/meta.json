@@ -1,0 +1,43 @@
+{
+  "id": "5245",
+  "year": "2023",
+  "freidok": "",
+  "issue": "5245",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Musicscapes US",
+  "abstract": "Musicscapes US",
+  "authors": [
+    {
+      "email": "dario@islerkids.com",
+      "firstname": "Dario",
+      "name": "Isler",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "None",
+    "latitude": 41.9641070958334,
+    "longitude": -102.98766135887101,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Spatial",
+  "topic": "Kultur",
+  "subtopic": "Gesellschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/5245/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/5245/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/5245/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/5245/tiles.dzi",
+  "sources": []
+}
