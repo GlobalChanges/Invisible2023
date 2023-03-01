@@ -1,0 +1,43 @@
+{
+  "id": "9253",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9253",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Mensch ärgere nicht die USA:  The US as a global Player",
+  "abstract": "Mensch ärgere nicht die USA:  The US as a global Player",
+  "authors": [
+    {
+      "email": "gregorgabersek@gmx.de",
+      "firstname": "Gregor",
+      "name": "Gaberšek",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "None",
+    "latitude": 41.88142109941393,
+    "longitude": -102.98126065985795,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Wirtschaft",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9253/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9253/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9253/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9253/tiles.dzi",
+  "sources": []
+}
