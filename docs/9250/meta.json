@@ -10,9 +10,9 @@
   "abstract": "Politischer Aufbau und System der USA:\nZwischen ‚checks and balances‘ und ‚checks and imbalances‘",
   "authors": [
     {
-      "email": "",
-      "firstname": "",
-      "name": "",
+      "email": "sophia.katharina.vogt@gmx.de",
+      "firstname": "Sophia Katharina",
+      "name": "Vogt",
       "freidok": "",
       "orcid": ""
     }
@@ -22,8 +22,8 @@
     "countries": [],
     "continent": "Nordamerika",
     "landscape": "Großstadt",
-    "latitude": 38.9,
-    "longitude": -77.01,
+    "latitude": 38.995,
+    "longitude": -77.2,
     "city": "",
     "region": ""
   },
