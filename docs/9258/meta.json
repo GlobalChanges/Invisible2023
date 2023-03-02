@@ -1,0 +1,43 @@
+{
+  "id": "9258",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9258",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Eine unsichtbare Kraft verändert die USA und die Welt?",
+  "abstract": "Eine unsichtbare Kraft verändert die USA und die Welt?\nKlimawandel-Erkenntnisse zwischen Vergangenheit und Zukunft",
+  "authors": [
+    {
+      "email": "akreitho@gmx.de",
+      "firstname": "Aaron",
+      "name": "",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Atmosphäre",
+    "latitude": 41.88280993802729,
+    "longitude": -102.85098305295783,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Klimawandel",
+  "subtopic": "Gesellschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9258/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9258/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9258/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9258/tiles.dzi",
+  "sources": []
+}
