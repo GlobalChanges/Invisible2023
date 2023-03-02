@@ -1,0 +1,43 @@
+{
+  "id": "9260",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9260",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "The Role of Media",
+  "abstract": "The Role of Media",
+  "authors": [
+    {
+      "email": "naeun.baek@gmail.com",
+      "firstname": "Naeun",
+      "name": "Baek",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 41.92058734834272,
+    "longitude": -103.0932014110846,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Medien",
+  "subtopic": "Gesellschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9260/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9260/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9260/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9260/tiles.dzi",
+  "sources": []
+}
