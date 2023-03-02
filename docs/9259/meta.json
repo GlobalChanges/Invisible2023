@@ -1,0 +1,43 @@
+{
+  "id": "9259",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9259",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Where the crawdads sing... ",
+  "abstract": "Where the crawdads sing... ",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "",
+      "name": "",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Feuchtgebiet",
+    "latitude": 36.5,
+    "longitude": -76.9,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Biodiversität",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9259/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9259/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9259/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9259/tiles.dzi",
+  "sources": []
+}
