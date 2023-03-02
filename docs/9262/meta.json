@@ -1,0 +1,43 @@
+{
+  "id": "9262",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9262",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Momentaufnahme: Zum Stand der Umwelt",
+  "abstract": "Momentaufnahme: Zum Stand der Umwelt -\nUmweltdegradation Weltweit und in den USA",
+  "authors": [
+    {
+      "email": "angela.dellemann@students.uni-freiburg.de",
+      "firstname": "Angela",
+      "name": "Dellemann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 42.08295042645278,
+    "longitude": -103.19722286853192,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Planetare Grenzen",
+  "subtopic": "Verschmutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9262/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9262/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9262/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9262/tiles.dzi",
+  "sources": []
+}
