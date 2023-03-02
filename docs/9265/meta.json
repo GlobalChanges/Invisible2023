@@ -1,0 +1,43 @@
+{
+  "id": "9265",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9265",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Das Wasser wird knapp! ",
+  "abstract": "Das Wasser wird knapp!\nWassermanagement",
+  "authors": [
+    {
+      "email": "klara@kininger.de",
+      "firstname": "Klara",
+      "name": "Kininger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Agrar",
+    "latitude": 36.18,
+    "longitude": -115.13,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9265/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9265/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9265/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9265/tiles.dzi",
+  "sources": []
+}
