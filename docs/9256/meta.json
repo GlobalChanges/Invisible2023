@@ -1,0 +1,43 @@
+{
+  "id": "9256",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9256",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Meerwasserentsalzung",
+  "abstract": "Meerwasserentsalzung",
+  "authors": [
+    {
+      "email": "josepha.fehr@gmx.de",
+      "firstname": "Josepha",
+      "name": "Fehr",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Küste",
+    "latitude": 28.07,
+    "longitude": -82.73,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9256/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9256/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9256/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9256/tiles.dzi",
+  "sources": []
+}
