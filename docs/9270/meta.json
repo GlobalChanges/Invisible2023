@@ -1,0 +1,43 @@
+{
+  "id": "9270",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9270",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Forget Columbus: Geschichte, Naturethik und ökologisches Knowledge",
+  "abstract": "Forget Columbus:\nGeschichte, Naturethik und ökologisches Knowledge durch Stimmen einzelner indigener Menschen Nordamerikas.\nEin lyrischer Perspektivwechsel.",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "",
+      "name": "",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "None",
+    "latitude": 41.920886017997276,
+    "longitude": -103.08471386835788,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Indigene Völker",
+  "subtopic": "Kultur",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9270/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9270/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9270/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9270/tiles.dzi",
+  "sources": []
+}
