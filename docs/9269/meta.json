@@ -1,0 +1,43 @@
+{
+  "id": "9269",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9269",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Postmetropolis - Stadt im Wandel",
+  "abstract": "Postmetropolis - Stadt im Wandel",
+  "authors": [
+    {
+      "email": "jule-von-den@elberts.de",
+      "firstname": "Jule",
+      "name": "Elbert",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 42.092890683504976,
+    "longitude": -103.1798656314124,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9269/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9269/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9269/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9269/tiles.dzi",
+  "sources": []
+}
