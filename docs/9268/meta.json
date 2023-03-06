@@ -1,0 +1,43 @@
+{
+  "id": "9268",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9268",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Küsten - Vielfalt und ökologische Besonderheiten ",
+  "abstract": "Küsten - Vielfalt und ökologische Besonderheiten in regionaler Perspektive",
+  "authors": [
+    {
+      "email": "nataliefischer45@outlook.de",
+      "firstname": "Natalie",
+      "name": "Fischer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Küste",
+    "latitude": 40.9,
+    "longitude": -124.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9268/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9268/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9268/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9268/tiles.dzi",
+  "sources": []
+}
