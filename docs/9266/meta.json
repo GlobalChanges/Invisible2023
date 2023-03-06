@@ -1,0 +1,43 @@
+{
+  "id": "9266",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9266",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Kalifornien im KLimawandel - Schnee Ade",
+  "abstract": "Kalifornien im KLimawandel - Schnee Ade",
+  "authors": [
+    {
+      "email": "cosima.schulze@gmail.com",
+      "firstname": "Cosima Suleika",
+      "name": "Schulze",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Agrar",
+    "latitude": 36.58,
+    "longitude": -118.29,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9266/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9266/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9266/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9266/tiles.dzi",
+  "sources": []
+}
