@@ -1,0 +1,43 @@
+{
+  "id": "9267",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9267",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Naturkatastrophen USA - ein Fass ohne Boden?",
+  "abstract": "Naturkatastrophen USA - ein Fass ohne Boden?",
+  "authors": [
+    {
+      "email": "tim.kramer01.09.00@web.de",
+      "firstname": "Tim",
+      "name": "Kramer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Atmosphäre",
+    "latitude": 41.93997175968802,
+    "longitude": -102.86088029137024,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Katastrophe",
+  "subtopic": "Klimaextreme",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9267/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9267/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9267/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9267/tiles.dzi",
+  "sources": []
+}
