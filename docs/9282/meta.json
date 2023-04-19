@@ -1,0 +1,43 @@
+{
+  "id": "9282",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9282",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Folgen des Immobilienbooms in Phnom Penh",
+  "abstract": "Folgen des Immobilienbooms in Phnom Penh",
+  "authors": [
+    {
+      "email": "fa93@uni-freiburg.de",
+      "firstname": "Federica Lorenza",
+      "name": "Amann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Kambodscha",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Großstadt",
+    "latitude": 12.513275074797173,
+    "longitude": 105.70792385673533,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Urbanisierung",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9282/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9282/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9282/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9282/tiles.dzi",
+  "sources": []
+}
