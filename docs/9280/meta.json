@@ -1,0 +1,43 @@
+{
+  "id": "9280",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9280",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Globaler Wasserverbrauch - verbrauchen wir zu viel Wasser?",
+  "abstract": "Globaler Wasserverbrauch - verbrauchen wir zu viel Wasser?",
+  "authors": [
+    {
+      "email": "su44@uni-freiburg.de",
+      "firstname": "Samuel",
+      "name": "Uhl",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -41,
+    "longitude": -150,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Ressourcen",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9280/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9280/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9280/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9280/tiles.dzi",
+  "sources": []
+}
