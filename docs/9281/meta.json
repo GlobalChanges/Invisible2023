@@ -1,0 +1,43 @@
+{
+  "id": "9281",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9281",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Verlieren wir den Boden unter den Füssen?",
+  "abstract": "Verlieren wir den Boden unter den Füssen?",
+  "authors": [
+    {
+      "email": "ea103@uni-freiburg.de",
+      "firstname": "Eva",
+      "name": "Abzieher",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -44.9466528317876,
+    "longitude": -156.04757464239444,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Planetare Grenzen",
+  "subtopic": "Landwirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9281/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9281/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9281/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9281/tiles.dzi",
+  "sources": []
+}
