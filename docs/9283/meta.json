@@ -1,0 +1,43 @@
+{
+  "id": "9283",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9283",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Wie kommt der Lachs auf unsere Teller?",
+  "abstract": "Wie kommt der Lachs auf unsere Teller? \nDas Leben eines Zuchtlachses",
+  "authors": [
+    {
+      "email": "tz70@uni-freiburg.de",
+      "firstname": "Til",
+      "name": "Zanger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Norwegen",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Meer",
+    "latitude": 50.41448190798305,
+    "longitude": 18.92668179840467,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Ernährung",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9283/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9283/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9283/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9283/tiles.dzi",
+  "sources": []
+}
