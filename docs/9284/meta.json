@@ -1,0 +1,43 @@
+{
+  "id": "9284",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9284",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Das Konzept der Imperialen Lebensweise",
+  "abstract": "Das Konzept der Imperialen Lebensweise",
+  "authors": [
+    {
+      "email": "pb251@uni-freiburg.de",
+      "firstname": "Pascal",
+      "name": "Blank",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -44.91390858330157,
+    "longitude": -156.22638238881578,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Gerechtigkeit",
+  "topic": "Konsum",
+  "subtopic": "Gesellschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9284/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9284/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9284/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9284/tiles.dzi",
+  "sources": []
+}
