@@ -1,0 +1,43 @@
+{
+  "id": "9297",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9297",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Nach dem Eis - Wie sehen die Hochgebirge der Zukunft aus?",
+  "abstract": "Nach dem Eis - Wie sehen die Hochgebirge der Zukunft aus?",
+  "authors": [
+    {
+      "email": "lg487@uni-freiburg.de",
+      "firstname": "Leon",
+      "name": "Gurol",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Gebirge",
+    "latitude": -44.11433640176168,
+    "longitude": -155.56850692841059,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9297/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9297/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9297/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9297/tiles.dzi",
+  "sources": []
+}
