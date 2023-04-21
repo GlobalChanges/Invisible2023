@@ -1,0 +1,43 @@
+{
+  "id": "9291",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9291",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Die 3-Grad-Grenze",
+  "abstract": "Die 3-Grad-Grenze\nWie sieht die Welt 3 Grad wärmer aus?",
+  "authors": [
+    {
+      "email": " nf118@uni-freiburg.de",
+      "firstname": "Niclas",
+      "name": "Fehrenbacher",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -45.279307499741165,
+    "longitude": -155.54699050711318,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9291/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9291/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9291/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9291/tiles.dzi",
+  "sources": []
+}
