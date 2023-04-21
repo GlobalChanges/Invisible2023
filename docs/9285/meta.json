@@ -1,0 +1,43 @@
+{
+  "id": "9285",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9285",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Illegalisierte Migrant*innen in den USA",
+  "abstract": "Illegalisierte Migrant*innen in den USA",
+  "authors": [
+    {
+      "email": "ab917@uni-freiburg.de",
+      "firstname": "Annkathrin",
+      "name": "Boheim",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 41.90225333307291,
+    "longitude": -102.80832045856417,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Migration",
+  "subtopic": "Legislative",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9285/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9285/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9285/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9285/tiles.dzi",
+  "sources": []
+}
