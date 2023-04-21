@@ -1,0 +1,43 @@
+{
+  "id": "9288",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9288",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "The Chamoli-Disaster, 7th of February 2021",
+  "abstract": "The Chamoli-Disaster, 7th of February 2021",
+  "authors": [
+    {
+      "email": "tw177@uni-freiburg.de",
+      "firstname": "Tapio",
+      "name": "Werth",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Indien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Gebirge",
+    "latitude": 57.255176811252824,
+    "longitude": 80.75612530745866,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Katastrophe",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9288/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9288/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9288/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9288/tiles.dzi",
+  "sources": []
+}
