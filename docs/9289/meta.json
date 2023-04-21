@@ -1,0 +1,43 @@
+{
+  "id": "9289",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9289",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Das Mittelmeer als moderne (und tödlichste) Grenze",
+  "abstract": "Das Mittelmeer als moderne (und tödlichste) Grenze",
+  "authors": [
+    {
+      "email": "jw763@uni-freiburg.de",
+      "firstname": "Janik",
+      "name": "Wischmeyer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Europa",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Meer",
+    "latitude": 50.81883175919793,
+    "longitude": 17.26469311132602,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Migration",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9289/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9289/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9289/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9289/tiles.dzi",
+  "sources": []
+}
