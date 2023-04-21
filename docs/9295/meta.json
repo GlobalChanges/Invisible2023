@@ -1,0 +1,43 @@
+{
+  "id": "9295",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9295",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Die Arktis – Globaler Hotspot des Klimawandels",
+  "abstract": "Die Arktis –\nGlobaler Hotspot des Klimawandels",
+  "authors": [
+    {
+      "email": "sl419@uni-freiburg.de",
+      "firstname": "Sophia",
+      "name": "Lamparter",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Grönland",
+    "countries": [],
+    "continent": "Arktis",
+    "landscape": "Polarregion",
+    "latitude": 74.57581118067345,
+    "longitude": -26.966043635927594,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Meeresspiegel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9295/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9295/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9295/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9295/tiles.dzi",
+  "sources": []
+}
