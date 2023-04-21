@@ -10,7 +10,7 @@
   "abstract": "Der Weg eines Smartphones am Beispiel eines iPhones",
   "authors": [
     {
-      "email": " jp331@uni-freiburg.de ",
+      "email": "jp331@uni-freiburg.de",
       "firstname": "Jens",
       "name": "Peter",
       "freidok": "",
@@ -35,9 +35,9 @@
     "end": 2022
   },
   "keywords": [],
-  "pdf": "https://globalchanges.github.io/MetaData2023/9290/poster.pdf",
-  "thumbnail": "https://globalchanges.github.io/MetaData2023/9290/thumbnail.png",
-  "icon": "https://globalchanges.github.io/MetaData2023/9290/icon.png",
-  "tiles": "https://globalchanges.github.io/MetaData2023/9290/tiles.dzi",
+  "pdf": "https://globalchanges.github.io/Invisible2023/9290/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9290/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9290/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9290/tiles.dzi",
   "sources": []
 }
