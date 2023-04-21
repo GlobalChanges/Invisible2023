@@ -1,0 +1,43 @@
+{
+  "id": "9293",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9293",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Permafrost! Ein unsichtbarer Feind der Menschheit?",
+  "abstract": "Permafrost!\nEin unsichtbarer Feind der Menschheit?",
+  "authors": [
+    {
+      "email": "mg648@uni-freiburg.de",
+      "firstname": "Moritz",
+      "name": "Geßler",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Polarregion",
+    "latitude": -44.837498899984745,
+    "longitude": -157.5664383921049,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9293/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9293/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9293/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9293/tiles.dzi",
+  "sources": []
+}
