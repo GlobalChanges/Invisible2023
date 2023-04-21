@@ -1,0 +1,43 @@
+{
+  "id": "9290",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9290",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Der Weg eines Smartphones am Beispiel eines iPhones",
+  "abstract": "Der Weg eines Smartphones am Beispiel eines iPhones",
+  "authors": [
+    {
+      "email": " jp331@uni-freiburg.de ",
+      "firstname": "Jens",
+      "name": "Peter",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -44.4724156908278,
+    "longitude": -156.68886933266577,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Konsum",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9290/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9290/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9290/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9290/tiles.dzi",
+  "sources": []
+}
