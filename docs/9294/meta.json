@@ -1,0 +1,43 @@
+{
+  "id": "9294",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9294",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "REDD+: Der Wald als ultimativer Klimaretter?",
+  "abstract": "REDD+: Der Wald als ultimativer Klimaretter?",
+  "authors": [
+    {
+      "email": "tl147@uni-freiburg.de",
+      "firstname": "Tamara",
+      "name": "Lais",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Brasilien",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Wald",
+    "latitude": -17.024838712133526,
+    "longitude": -51.609406230608336,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9294/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9294/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9294/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9294/tiles.dzi",
+  "sources": []
+}
