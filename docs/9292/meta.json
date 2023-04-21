@@ -1,0 +1,43 @@
+{
+  "id": "9292",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9292",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Detroit zwischen Fixiertheit und Bewegung",
+  "abstract": "Detroit zwischen Fixiertheit und Bewegung\nGrüne Renaissance einer Geisterstadt",
+  "authors": [
+    {
+      "email": "lg373@uni-freiburg.de",
+      "firstname": "Lea Setareh",
+      "name": "Geißler",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 42.0699762980996,
+    "longitude": -103.0163790691359,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Urbanisierung",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9292/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9292/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9292/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9292/tiles.dzi",
+  "sources": []
+}
