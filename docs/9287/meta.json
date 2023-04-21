@@ -1,0 +1,43 @@
+{
+  "id": "9287",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9287",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Die Zukunft der Arktis",
+  "abstract": "Die Zukunft der Arktis",
+  "authors": [
+    {
+      "email": "rb234@uni-freiburg.de",
+      "firstname": "Ronja",
+      "name": "Bury",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Grönland",
+    "countries": [],
+    "continent": "Arktis",
+    "landscape": "Polarregion",
+    "latitude": 75.34326715914142,
+    "longitude": -25.62662937598644,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Meeresspiegel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9287/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9287/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9287/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9287/tiles.dzi",
+  "sources": []
+}
