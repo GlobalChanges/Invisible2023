@@ -1,0 +1,43 @@
+{
+  "id": "9324",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9324",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Regreening the Sahel",
+  "abstract": "Regreening the Sahel",
+  "authors": [
+    {
+      "email": "hb219@uni-freiburg.de",
+      "firstname": "Helen",
+      "name": "Birk",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Kenia",
+    "countries": [],
+    "continent": "Afrika",
+    "landscape": "Wüste",
+    "latitude": 1.4516746299643692,
+    "longitude": 18.519534513390056,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Desertifikation",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9324/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9324/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9324/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9324/tiles.dzi",
+  "sources": []
+}
