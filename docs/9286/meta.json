@@ -1,0 +1,43 @@
+{
+  "id": "9286",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9286",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Buen Vivir - das gute Leben?",
+  "abstract": "Buen Vivir - das gute Leben?\nZwischen Propagandaslogan und echter Veränderung",
+  "authors": [
+    {
+      "email": "pb327@uni-freiburg.de",
+      "firstname": "Paula",
+      "name": "Bartholomeyczik",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Ecuador",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Regenwald",
+    "latitude": -15.710772375134368,
+    "longitude": -52.21135420368622,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Biodiversität",
+  "subtopic": "Indigene Völker",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9286/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9286/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9286/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9286/tiles.dzi",
+  "sources": []
+}
