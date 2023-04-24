@@ -1,0 +1,43 @@
+{
+  "id": "9312",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9312",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Aquaponik",
+  "abstract": "Aquaponik\nAnbauprinzip gegen Umweltschäden, Hunger und Klimawandel?",
+  "authors": [
+    {
+      "email": "tg174@uni-freiburg.de",
+      "firstname": "Timon",
+      "name": "Graf",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -47.178996718538954,
+    "longitude": -156.23852905086642,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9312/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9312/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9312/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9312/tiles.dzi",
+  "sources": []
+}
