@@ -1,0 +1,43 @@
+{
+  "id": "9314",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9314",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Neue öffentliche Räume",
+  "abstract": "Neue öffentliche Räume",
+  "authors": [
+    {
+      "email": "mg783@uni-freiburg.de",
+      "firstname": "Marie",
+      "name": "Grützmacher",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -47.79416215517744,
+    "longitude": -157.94201443577904,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Gesellschaft",
+  "subtopic": "Kultur",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9314/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9314/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9314/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9314/tiles.dzi",
+  "sources": []
+}
