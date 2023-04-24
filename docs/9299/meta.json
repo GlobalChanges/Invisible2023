@@ -1,0 +1,43 @@
+{
+  "id": "9299",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9299",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "in welcher Zeit leben wir?",
+  "abstract": "in welcher Zeit leben wir?",
+  "authors": [
+    {
+      "email": "hh273@uni-freiburg.de",
+      "firstname": "Hannah",
+      "name": "Hother",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -47.559334770618094,
+    "longitude": -154.22351982768652,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Klimawandel",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9299/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9299/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9299/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9299/tiles.dzi",
+  "sources": []
+}
