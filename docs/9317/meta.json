@@ -1,0 +1,43 @@
+{
+  "id": "9317",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9317",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Wenn das Meer die Farbe verliert...",
+  "abstract": "Wenn das Meer die Farbe verliert...",
+  "authors": [
+    {
+      "email": "sd307@uni-freiburg.de",
+      "firstname": "Sarah",
+      "name": "Dilger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Indonesien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Meer",
+    "latitude": -2.049449427584317,
+    "longitude": 117.7376089790291,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Erwärmung",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9317/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9317/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9317/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9317/tiles.dzi",
+  "sources": []
+}
