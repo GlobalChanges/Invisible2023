@@ -1,0 +1,43 @@
+{
+  "id": "9331",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9331",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Wir brauchen die Wälder!",
+  "abstract": "Wir brauchen die Wälder!",
+  "authors": [
+    {
+      "email": "mg630@uni-freiburg.de",
+      "firstname": "Mareike",
+      "name": "Güntert",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Wald",
+    "latitude": -46.46131560212774,
+    "longitude": -155.64160121068528,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Landnutzung",
+  "subtopic": "Klimawandel",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9331/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9331/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9331/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9331/tiles.dzi",
+  "sources": []
+}
