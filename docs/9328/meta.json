@@ -1,0 +1,43 @@
+{
+  "id": "9328",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9328",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Solidarity City-Netzwerk",
+  "abstract": "Solidarity City-Netzwerk\nEin Konzept für gesellschaftliche Integration von Menschen ohne Aufenthaltstitel",
+  "authors": [
+    {
+      "email": "jh1328@uni-freiburg.de",
+      "firstname": "Jonte",
+      "name": "Heidorn",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -47.17947177888937,
+    "longitude": -157.83950385001668,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Gesellschaft",
+  "subtopic": "Migration",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9328/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9328/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9328/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9328/tiles.dzi",
+  "sources": []
+}
