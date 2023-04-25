@@ -1,0 +1,43 @@
+{
+  "id": "9304",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9304",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Indias 100 Smart Cities Challange",
+  "abstract": "Indias 100 Smart Cities Challange",
+  "authors": [
+    {
+      "email": "nk319@uni-freiburg.de",
+      "firstname": "Nicolas",
+      "name": "Krier",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Indien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Großstadt",
+    "latitude": 59.1437192587251,
+    "longitude": 80.865963629023,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Digitalisierung",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9304/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9304/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9304/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9304/tiles.dzi",
+  "sources": []
+}
