@@ -1,0 +1,43 @@
+{
+  "id": "9303",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9303",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Klimawandel und Wasserversorgung in Europa",
+  "abstract": "Klimawandel und Wasserversorgung in Europa",
+  "authors": [
+    {
+      "email": "kh352@uni-freiburg.de",
+      "firstname": "Kay",
+      "name": "Huber-Winter",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Agrar",
+    "latitude": 49.54546187922816,
+    "longitude": 19.258257587301554,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9303/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9303/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9303/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9303/tiles.dzi",
+  "sources": []
+}
