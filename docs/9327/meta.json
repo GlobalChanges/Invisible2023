@@ -1,0 +1,43 @@
+{
+  "id": "9327",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9327",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Der Jordan – Transnationale Wasserversorgung",
+  "abstract": "Der Jordan – Transnationale Wasserversorgung",
+  "authors": [
+    {
+      "email": "dk284@uni-freiburg.de",
+      "firstname": "Dorothea",
+      "name": "Kraft",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Naher Osten",
+    "landscape": "Agrar",
+    "latitude": 31.797582222435928,
+    "longitude": 45.761043141479234,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Wasser",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9327/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9327/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9327/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9327/tiles.dzi",
+  "sources": []
+}
