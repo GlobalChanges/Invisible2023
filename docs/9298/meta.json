@@ -1,0 +1,43 @@
+{
+  "id": "9298",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9298",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Gemeinwohl- Ökonomie",
+  "abstract": "Gemeinwohl-Ökonomie",
+  "authors": [
+    {
+      "email": "ak703@uni-freiburg.de",
+      "firstname": "Amrei Johanna",
+      "name": "Kuhne",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -44.07735424716251,
+    "longitude": -155.623103810835,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Gesellschaft",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9298/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9298/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9298/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9298/tiles.dzi",
+  "sources": []
+}
