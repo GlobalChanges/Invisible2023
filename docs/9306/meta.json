@@ -1,0 +1,43 @@
+{
+  "id": "9306",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9306",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Smartphone and Internet",
+  "abstract": "Smartphone and Internet:\nInfrastructure for Movement or Infrastructure of Control?",
+  "authors": [
+    {
+      "email": "sm762@uni-freiburg.de",
+      "firstname": "Selina Sonja",
+      "name": "Matthey",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "None",
+    "latitude": -46.68588236575626,
+    "longitude": -155.50611016627994,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Digitalisierung",
+  "subtopic": "Migration",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9306/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9306/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9306/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9306/tiles.dzi",
+  "sources": []
+}
