@@ -1,0 +1,43 @@
+{
+  "id": "9309",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9309",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "The \"Great\" Green Wall - Zwischen Anspruch und Wirklichkeit",
+  "abstract": "The \"Great\" Green Wall - Zwischen Anspruch und Wirklichkeit",
+  "authors": [
+    {
+      "email": "cp281@uni-freiburg.de",
+      "firstname": "Celia",
+      "name": "Pinnau",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Afrika",
+    "landscape": "Trockengebiet",
+    "latitude": 0.00059957555762713,
+    "longitude": 17.52028519191308,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Klimawandel",
+  "subtopic": "Desertifikation",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9309/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9309/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9309/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9309/tiles.dzi",
+  "sources": []
+}
