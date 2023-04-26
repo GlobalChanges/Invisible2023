@@ -1,0 +1,43 @@
+{
+  "id": "9320",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9320",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "REDDY? Oppertunities and Challenges of REDD+ Implementation",
+  "abstract": "REDDY? \nOppertunities and Challenges of REDD+ Implementation in Yaigoje Apaporis Indigenous Reserve and National Park, Colombia",
+  "authors": [
+    {
+      "email": "cm364@uni-freiburg.de",
+      "firstname": "Christin",
+      "name": "Meusel",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Wald",
+    "latitude": -17.659348698585738,
+    "longitude": -49.22700347484867,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Biodiversität",
+  "subtopic": "Indigene Völker",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9320/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9320/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9320/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9320/tiles.dzi",
+  "sources": []
+}
