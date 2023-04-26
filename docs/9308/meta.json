@@ -1,0 +1,43 @@
+{
+  "id": "9308",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9308",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Moore: Klimakiller…   oder Klimaretter?",
+  "abstract": "Moore: Klimakiller…\n…oder Klimaretter?",
+  "authors": [
+    {
+      "email": "jp426@uni-freiburg.de",
+      "firstname": "Johanna",
+      "name": "Phillipps",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Feuchtgebiet",
+    "latitude": 51.93292327236415,
+    "longitude": 11.931827509659666,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9308/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9308/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9308/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9308/tiles.dzi",
+  "sources": []
+}
