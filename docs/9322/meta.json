@@ -1,0 +1,43 @@
+{
+  "id": "9322",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9322",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Payment for Ecosystem Services",
+  "abstract": "Payment for Ecosystem Services",
+  "authors": [
+    {
+      "email": "fn73@uni-freiburg.de",
+      "firstname": "Frederick",
+      "name": "Niggli",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "None",
+    "latitude": -46.230924197021956,
+    "longitude": -151.95140716406297,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Biodiversität",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9322/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9322/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9322/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9322/tiles.dzi",
+  "sources": []
+}
