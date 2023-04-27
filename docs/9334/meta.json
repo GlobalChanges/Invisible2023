@@ -1,0 +1,43 @@
+{
+  "id": "9334",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9334",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Problem Mangrove: Schlechte Gezeiten für die Wälder?",
+  "abstract": "Problem Mangrove:\nSchlechte Gezeiten für die Wälder?",
+  "authors": [
+    {
+      "email": "as1425@uni-freiburg.de",
+      "firstname": "Anabel",
+      "name": "Schmidt",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Feuchtgebiet",
+    "latitude": -47.62657444430885,
+    "longitude": -157.31983787731357,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9334/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9334/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9334/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9334/tiles.dzi",
+  "sources": []
+}
