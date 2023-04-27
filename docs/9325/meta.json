@@ -1,0 +1,43 @@
+{
+  "id": "9325",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9325",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Gesundheitliche Folgen des Klimawandels in Deutschland",
+  "abstract": "Gesundheitliche Folgen des Klimawandels in Deutschland\nHitze als Stressfaktor für die menschliche Gesundheit",
+  "authors": [
+    {
+      "email": "ms2329@uni-freiburg.de",
+      "firstname": "Malin",
+      "name": "Steinhäuser",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 51.740009934697476,
+    "longitude": 12.040385718478372,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Gesundheit",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9325/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9325/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9325/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9325/tiles.dzi",
+  "sources": []
+}
