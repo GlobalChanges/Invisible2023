@@ -1,0 +1,43 @@
+{
+  "id": "9318",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9318",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Auswirkungen des Klimawandels auf die mitteleuropäische Landwirtschaft",
+  "abstract": "Auswirkungen des Klimawandels auf die mitteleuropäische Landwirtschaft\nHot Harvest: Raumbeispiel Bodensee-Region",
+  "authors": [
+    {
+      "email": "nw200@uni-freiburg.de",
+      "firstname": "Niklas",
+      "name": "Weiß",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Agrar",
+    "latitude": 51.80734942635481,
+    "longitude": 12.094469905870962,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Landwirtschaft",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9318/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9318/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9318/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9318/tiles.dzi",
+  "sources": []
+}
