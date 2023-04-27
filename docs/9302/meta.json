@@ -1,0 +1,43 @@
+{
+  "id": "9302",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9302",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Naturnaher Küstenschutz",
+  "abstract": "Naturnaher Küstenschutz\nAnsätze für einen zukunftsfähigen Küstenschutz an der deutschen Nordseeküste",
+  "authors": [
+    {
+      "email": "jr387@uni-freiburg.de",
+      "firstname": "Judith",
+      "name": "Reinfried",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Küste",
+    "latitude": 51.865846810241514,
+    "longitude": 11.954173125687324,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Meeresspiegel",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9302/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9302/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9302/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9302/tiles.dzi",
+  "sources": []
+}
