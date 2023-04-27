@@ -1,0 +1,43 @@
+{
+  "id": "9307",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9307",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Welche Kosten entstehen durch den Klimawandel in Deutschland?",
+  "abstract": "Welche Kosten entstehen durch den Klimawandel in Deutschland?",
+  "authors": [
+    {
+      "email": "ms860@uni-freiburg.de",
+      "firstname": "Maximilian",
+      "name": "Seewald",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "None",
+    "latitude": 51.738005342202996,
+    "longitude": 11.90362532936566,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9307/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9307/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9307/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9307/tiles.dzi",
+  "sources": []
+}
