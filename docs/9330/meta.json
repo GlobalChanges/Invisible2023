@@ -1,0 +1,43 @@
+{
+  "id": "9330",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9330",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Den Ostsee-Hering in der Nordsee retten?",
+  "abstract": "Den Ostsee-Hering in der Nordsee retten?\nPerspektiven auf die Problematik von punktueller Überfischung",
+  "authors": [
+    {
+      "email": "ms1439@uni-freiburg.de",
+      "firstname": "Maximilian",
+      "name": "Schwämmle",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 49.97571489447676,
+    "longitude": 18.039888579305558,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Biodiversität",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9330/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9330/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9330/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9330/tiles.dzi",
+  "sources": []
+}
