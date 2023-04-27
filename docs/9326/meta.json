@@ -1,0 +1,43 @@
+{
+  "id": "9326",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9326",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "State and Fate of the Tropical Glaciers",
+  "abstract": "State and Fate of the Tropical Glaciers",
+  "authors": [
+    {
+      "email": "es294@uni-freiburg.de",
+      "firstname": "Ella",
+      "name": "Schott",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Gebirge",
+    "latitude": -45.027770698852734,
+    "longitude": -158.11344472149514,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9326/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9326/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9326/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9326/tiles.dzi",
+  "sources": []
+}
