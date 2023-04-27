@@ -1,0 +1,43 @@
+{
+  "id": "9316",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9316",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Der Wald in Mitteleuropa zu Zeiten des Klimawandels",
+  "abstract": "Der Wald in Mitteleuropa zu Zeiten des Klimawandels",
+  "authors": [
+    {
+      "email": "kk462@uni-freiburg.de",
+      "firstname": "Katharina",
+      "name": "Kirchhofer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Wald",
+    "latitude": 49.45265561299546,
+    "longitude": 17.01875293059105,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9316/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9316/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9316/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9316/tiles.dzi",
+  "sources": []
+}
