@@ -1,0 +1,43 @@
+{
+  "id": "9336",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9336",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "To the Exosphere …and Beyond!",
+  "abstract": "To the Exosphere …and Beyond!\nGeographien der globalen Technosphäre",
+  "authors": [
+    {
+      "email": "ls248@uni-freiburg.de",
+      "firstname": "Lorenz",
+      "name": "Schick",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -45.3141048604636,
+    "longitude": -157.85385187355666,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Wissenschaft",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9336/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9336/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9336/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9336/tiles.dzi",
+  "sources": []
+}
