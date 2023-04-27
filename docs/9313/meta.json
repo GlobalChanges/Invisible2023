@@ -1,0 +1,43 @@
+{
+  "id": "9313",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9313",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Aralsee – Wie ein See zur Wüste wurde",
+  "abstract": "Aralsee – Wie ein See zur Wüste wurde",
+  "authors": [
+    {
+      "email": "ss1638@uni-freiburg.de",
+      "firstname": "Sarah",
+      "name": "Schneider",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Kasachstan",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Feuchtgebiet",
+    "latitude": 59.84782128898139,
+    "longitude": 79.52928349855073,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9313/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9313/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9313/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9313/tiles.dzi",
+  "sources": []
+}
