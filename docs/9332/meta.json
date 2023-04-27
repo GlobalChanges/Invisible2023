@@ -1,0 +1,43 @@
+{
+  "id": "9332",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9332",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Die Charta von Palermo",
+  "abstract": "Die Charta von Palermo",
+  "authors": [
+    {
+      "email": "mz245@uni-freiburg.de",
+      "firstname": "Milena",
+      "name": "Zittlau",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Italien",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 50.9430571163932,
+    "longitude": 19.708021013739067,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Migration",
+  "subtopic": "Gesellschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9332/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9332/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9332/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9332/tiles.dzi",
+  "sources": []
+}
