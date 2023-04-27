@@ -1,0 +1,43 @@
+{
+  "id": "9300",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9300",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Huarez, Peru: Ein Bergbauer klagt gegen RWE",
+  "abstract": "Huarez, Peru: Ein Bergbauer klagt gegen RWE",
+  "authors": [
+    {
+      "email": "mt301@uni-freiburg.de",
+      "firstname": "Maurice",
+      "name": "Thomé",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Peru",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Gebirge",
+    "latitude": -15.415399956471058,
+    "longitude": -52.76169477577455,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Gerechtigkeit",
+  "topic": "Klimawandel",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9300/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9300/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9300/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9300/tiles.dzi",
+  "sources": []
+}
