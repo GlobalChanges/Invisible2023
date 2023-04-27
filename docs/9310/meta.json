@@ -1,0 +1,43 @@
+{
+  "id": "9310",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9310",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "The Green New Deal - die Rettung für unsere Erde?",
+  "abstract": "The Green New Deal - die Rettung für unsere Erde?",
+  "authors": [
+    {
+      "email": "ms1853@uni-freiburg.de",
+      "firstname": "Marius",
+      "name": "Schittenhelm",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "None",
+    "latitude": 49.03479933509527,
+    "longitude": 16.880975172770533,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Gesellschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9310/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9310/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9310/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9310/tiles.dzi",
+  "sources": []
+}
