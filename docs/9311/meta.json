@@ -1,0 +1,43 @@
+{
+  "id": "9311",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9311",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Kein Regen, keine Ernte?",
+  "abstract": "Kein Regen, keine Ernte?\nGängige Bewässerungsformen in der Landwirtschaft",
+  "authors": [
+    {
+      "email": "mr791@uni-freiburg.de",
+      "firstname": "Magalie",
+      "name": "Rau",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -43.62424182046576,
+    "longitude": -154.5412977984185,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Wasser",
+  "subtopic": "Landwirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9311/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9311/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9311/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9311/tiles.dzi",
+  "sources": []
+}
