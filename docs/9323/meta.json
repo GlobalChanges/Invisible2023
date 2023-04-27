@@ -1,0 +1,43 @@
+{
+  "id": "9323",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9323",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Plastic Removal: Was passiert mit dem Müll in den Ozeanen?",
+  "abstract": "Plastic Removal: Was passiert mit dem Müll in den Ozeanen?",
+  "authors": [
+    {
+      "email": "ls1319@uni-freiburg.de",
+      "firstname": "Luisa",
+      "name": "Serafimov",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Meer",
+    "latitude": -44.8843732332695,
+    "longitude": -157.32816534436233,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Altlasten",
+  "subtopic": "Stoffkreisläufe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9323/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9323/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9323/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9323/tiles.dzi",
+  "sources": []
+}
