@@ -1,0 +1,43 @@
+{
+  "id": "9329",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9329",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Tipping Points: Bringen wir unsere Erde zum kippen?",
+  "abstract": "Tipping Points: \nBringen wir unsere Erde zum kippen?",
+  "authors": [
+    {
+      "email": "lf220@uni-freiburg.de",
+      "firstname": "Luis Maximilian",
+      "name": "Fleckenstein",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "None",
+    "latitude": -41.792385745690325,
+    "longitude": -150.8715959124396,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2023/9329/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2023/9329/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2023/9329/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2023/9329/tiles.dzi",
+  "sources": []
+}
